@@ -16,7 +16,6 @@ I am a team leader who developed a high-load web application with MVC architectu
 - **Redis** (caching)
 - **Kafka** (message queues)
 - **Docker / Docker Compose**
-- **Kubernetes**
 - **AWS (S3, EC2, RDS)** or **Google Cloud**
 - **RESTful API / GraphQL**
 - **Gradle**
