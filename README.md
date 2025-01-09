@@ -8,7 +8,7 @@ Java Backend Developer
 
   
 
-##I am a team leader who developed a high-load web application with a 3-layer architecture, capable of supporting over 1 million users. Our project is a social network for startups and entrepreneurs.
+I am a team leader who developed a high-load web application with a 3-layer architecture, capable of supporting over 1 million users. Our project is a social network for startups and entrepreneurs.
 📚 Technology Stack:
 - **Java 17+**
 - **Spring Framework (Boot, Data, Security, Web)**
