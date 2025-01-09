@@ -6,9 +6,10 @@ Java Backend Developer
 📈 Leadership experience – 2 years.  
 🚀 Backend development – 2 years.
 
-I am a team leader who developed a high-load web application with MVC architecture, capable of supporting over 1 million users. Our project is a social network for startups and entrepreneurs.  
+  
 
-## 📚 Technology Stack:
+##I am a team leader who developed a high-load web application with a 3-layer architecture, capable of supporting over 1 million users. Our project is a social network for startups and entrepreneurs.
+📚 Technology Stack:
 - **Java 17+**
 - **Spring Framework (Boot, Data, Security, Web)**
 - **Hibernate ORM**
